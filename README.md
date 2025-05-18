@@ -1,1 +1,1 @@
-# Mini-gym-website
+# Symple Mini-gym-website useing HTML & CSS
